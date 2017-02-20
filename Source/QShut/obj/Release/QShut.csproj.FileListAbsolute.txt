@@ -1,0 +1,8 @@
+D:\OneDrive\Projects\Applications\Desktop\Win32\WinForms\QShut\QShut\bin\Release\QShut.exe.config
+D:\OneDrive\Projects\Applications\Desktop\Win32\WinForms\QShut\QShut\bin\Release\QShut.exe
+D:\OneDrive\Projects\Applications\Desktop\Win32\WinForms\QShut\QShut\bin\Release\QShut.pdb
+D:\OneDrive\Projects\Applications\Desktop\Win32\WinForms\QShut\QShut\obj\Release\QShut.MainForm.resources
+D:\OneDrive\Projects\Applications\Desktop\Win32\WinForms\QShut\QShut\obj\Release\QShut.Properties.Resources.resources
+D:\OneDrive\Projects\Applications\Desktop\Win32\WinForms\QShut\QShut\obj\Release\QShut.csproj.GenerateResource.Cache
+D:\OneDrive\Projects\Applications\Desktop\Win32\WinForms\QShut\QShut\obj\Release\QShut.exe
+D:\OneDrive\Projects\Applications\Desktop\Win32\WinForms\QShut\QShut\obj\Release\QShut.pdb
